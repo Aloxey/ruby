@@ -45,3 +45,8 @@ group :development do
   gem 'spring'
 end
 
+gem 'httparty', '0.13.5'
+
+
+
+
